@@ -1,0 +1,7 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "CasCon 2021 census"
+themesDir = "themes"
+theme = "hugo-icon"
+author = "Tetizeraz"
+sectionPagesMenu = "main"
