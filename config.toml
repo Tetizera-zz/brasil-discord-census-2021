@@ -1,11 +1,11 @@
 baseURL = "https://admiring-torvalds-b08d1f.netlify.app/"
 languageCode = "en-us"
-title = "CasualConversation 2021 census"
+title = "CasCon 2021 census"
 themesDir = "themes"
 theme = "hyde"
-author = "CasualConversation"
+author = "CasCon"
 sectionPagesMenu = "main"
 
 [params]
     themeColor = "theme-base-08"
-    description = "CasualConversation census"
+    description = "Cascon census"
