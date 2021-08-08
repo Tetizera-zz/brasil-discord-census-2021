@@ -1,11 +1,11 @@
-baseURL = "https://admiring-torvalds-b08d1f.netlify.app/"
-languageCode = "en-us"
-title = "CasCon 2021 census"
+baseURL = "https://heuristic-haibt-754dba.netlify.app"
+languageCode = "pt-br"
+title = "Censo de 2021 do Discord do r/brasil"
 themesDir = "themes"
 theme = "hyde"
-author = "CasCon"
+author = "r/brasil Discord"
 sectionPagesMenu = "main"
 
 [params]
     themeColor = "theme-base-08"
-    description = "Cascon census"
+    description = "Censo do Discord 2021"
