@@ -1,4 +1,4 @@
-baseURL = "https://admiring-torvalds-b08d1f.netlify.app"
+baseURL = "https://admiring-torvalds-b08d1f.netlify.app/"
 languageCode = "en-us"
 title = "CasualConversation 2021 census"
 themesDir = "themes"
@@ -6,10 +6,6 @@ theme = "hyde"
 author = "CasualConversation"
 sectionPagesMenu = "main"
 
-[[menu.main]]
-identifier = "en"
-name       = "CasualConversation census 2021 edition"
-url        = "/en/"
-
 [params]
     themeColor = "theme-base-08"
+    description = "CasualConversation census"
