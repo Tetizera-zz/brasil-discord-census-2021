@@ -1,4 +1,4 @@
-baseURL = "https://heuristic-haibt-754dba.netlify.app"
+baseURL = "https://heuristic-haibt-754dba.netlify.app/"
 languageCode = "pt-br"
 title = "Censo de 2021 do Discord do r/brasil"
 themesDir = "themes"
