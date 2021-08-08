@@ -1,7 +1,17 @@
 baseURL = "https://admiring-torvalds-b08d1f.netlify.app"
 languageCode = "en-us"
-title = "CasCon 2021 census"
+title = "CasualConversation 2021 census"
 themesDir = "themes"
-theme = "hugo-theme-bootstrap"
-author = "Tetizeraz"
+theme = "hyde
+author = "CasualConversation"
 sectionPagesMenu = "main"
+
+[[menu.main]]
+identifier = "en"
+name       = "CasualConversation census 2021 edition"
+url        = "/en/"
+weight     = 220
+
+[params]
+    themeColor = "theme-base-08"
+    description = "Jovem de 24 anos tentando ser jornalista."
