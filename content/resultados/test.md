@@ -5,4 +5,6 @@ date: 2021-08-27 20:00:00 +0300
 
 Observação: De um total de cerca de 5,000 usuários no Discord do r/brasil, apenas 76 usuários responderam o censo, composto por 14 perguntas e um formulário para feedbacks e mensagens. Consideramos, então, que o censo não representa o universo dos usuários do Discord do r/brasil, mas decidimos apresentar os dados em gráficos mesmo assim.
 
-[image here](/themes/hyde/static/ipcc%202014%20bar%20graph.PNG)
+<!--more-->
+
+[image here](static/ipcc%202014%20bar%20graph.PNG)
