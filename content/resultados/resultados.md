@@ -70,3 +70,5 @@ Além das perguntas, deixamos uma caixa de feedback para os usuários escrevem s
 "Vejo um aumento de discurso de ódio e relativização de tendências facistas no subreddit, parei de frequentar por esse motivo ficando ativo apenas no discord."
 
 "São gente boa e responsáveis. Mas que a verdade incontestável é: são todos furries." - O IP e o computador do usuário foram denunciados para a Polícia Federal para lidar com as acusações.
+
+Agradecemos a participação de todos os usuários do Discord do r/brasil.
