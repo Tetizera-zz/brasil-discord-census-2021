@@ -49,6 +49,8 @@ Usamos apenas os dados de 68 pessoas por causa de problemas na validação dos d
 
 ## Um cachorro-quente é um sanduíche?
 
+Usamos apenas os dados de 68 pessoas por causa de problemas na validação dos dados.
+
 ![](/uploads/8-cachorro-quente.PNG)
 
 ## Concluindo
